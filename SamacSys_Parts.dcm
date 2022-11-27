@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP S04B1-HCMKS
+D Automotive Connectors 4P Side Entry HCM Header (BLK)
+K
+F https://www.jst-mfg.com/product/pdf/eng/eHCM.pdf?6291dc3109c0c
+$ENDCMP
+#
+#End Doc Library
